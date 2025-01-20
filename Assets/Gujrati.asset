@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d520476024d55481f885e763cd611acc, type: 3}
+  m_Name: Gujrati
+  m_EditorClassIdentifier: 
+  languageName: Gujrati
+  serializedTranslations:
+  - key: 1
+    value: 
+  - key: 2
+    value: 
+  - key: 3
+    value: 
+  - key: 4
+    value: 
+  - key: 5
+    value: 
+  - key: 6
+    value: 
+  - key: 7
+    value: 
+  - key: 8
+    value: 
+  - key: 9
+    value: 
+  - key: 10
+    value: 
+  - key: 11
+    value: 
+  - key: 12
+    value: 
+  - key: 13
+    value: 
+  - key: 14
+    value: 
+  - key: 15
+    value: 

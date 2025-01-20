@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d520476024d55481f885e763cd611acc, type: 3}
+  m_Name: Portugese
+  m_EditorClassIdentifier: 
+  languageName: Portugese
+  serializedTranslations:
+  - key: 1
+    value: "Onde voc\xEA esteve?"
+  - key: 2
+    value: Eu estive aqui o tempo todo.
+  - key: 3
+    value: Eu estive aqui o tempo todo.
+  - key: 4
+    value: Ah sim, quem foi eliminado?
+  - key: 5
+    value: "Eliminado? Eu s\xF3 assisto pelo drama."
+  - key: 6
+    value: Estou cego?
+  - key: 7
+    value: Bem, eu ia te dizer para pegar uma receita mais forte.
+  - key: 8
+    value: "Claro, \xE9 pelo drama."
+  - key: 9
+    value: 'O FIM '
+  - key: 10
+    value: Ahhh.
+  - key: 11
+    value: Continua
+  - key: 12
+    value: "Vamos l\xE1, n\xE3o sou t\xE3o velho assim."
+  - key: 13
+    value: Reiniciar
+  - key: 14
+    value: "Estou realmente surpreso que voc\xEA tenha me notado!"
+  - key: 15
+    value: 

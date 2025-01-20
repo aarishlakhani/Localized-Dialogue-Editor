@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d520476024d55481f885e763cd611acc, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  languageName: French
+  serializedTranslations:
+  - key: 1
+    value: "O\xF9 \xE9tais-tu ?"
+  - key: 2
+    value: "J'\xE9tais \xE0 la maison en train de regarder Big Brother. "
+  - key: 3
+    value: "J'\xE9tais ici tout le temps."
+  - key: 4
+    value: "Ah oui, qui a \xE9t\xE9 \xE9limin\xE9 ?"
+  - key: 5
+    value: "\xC9limin\xE9 ? Je regarde juste pour le drame."
+  - key: 6
+    value: Suis-je aveugle ?
+  - key: 7
+    value: 'Eh bien, j''allais te dire de prendre une ordonnance plus forte. '
+  - key: 8
+    value: "Bien s\xFBr, c'est pour le drame."
+  - key: 9
+    value: LA FIN
+  - key: 10
+    value: Euh..
+  - key: 11
+    value: "\xC0 suivre"
+  - key: 12
+    value: Allez, je ne suis pas si vieux.
+  - key: 13
+    value: "Red\xE9marrer"
+  - key: 14
+    value: "Je suis vraiment surpris que tu m'aies remarqu\xE9 !"
+  - key: 15
+    value: 
